@@ -1,0 +1,14 @@
+state={
+	id=366
+	name="STATE_366"
+	provinces={
+		2657 2686 3462 3856 4124 4762 5766 6017 6720 11139 11194 11224 
+	}
+	history={
+		owner = SAR
+		add_core_of = SAR
+	}
+	buildings_max_level_factor=1.000
+        manpower=86988
+        state_category = town
+}

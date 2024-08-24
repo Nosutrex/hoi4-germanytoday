@@ -1,0 +1,13 @@
+state={
+	id=61
+	name="STATE_61"
+	provinces={
+		801 1720 2566 2605 3179 3181 4255 4698 5432 6723 7092 7102 7113 7127 7137 7144 7153 7172 7181 7203 7237 7270 7271 7298 7299 
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
+	}
+    manpower=248267
+    state_category = town
+}

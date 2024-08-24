@@ -1,0 +1,13 @@
+state={
+	id=280
+	name="STATE_280"
+	provinces={
+		4725 5158 10191 629 708 2428 2992 4256 4696 6057 10092 10142 10157 10232 10235 10292 3507 5588 5806 10015 10044 10101 10106 
+	}
+	history={
+		owner = SAC
+		add_core_of = SAC
+	}
+    manpower=310111
+    state_category = large_town
+}

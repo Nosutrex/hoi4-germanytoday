@@ -1,0 +1,13 @@
+state={
+	id=43
+	name="STATE_43"
+	provinces={
+		6886 
+	}
+	history={
+		owner = MVP
+		add_core_of = MVP
+	}
+    manpower=59363
+    state_category = town
+}

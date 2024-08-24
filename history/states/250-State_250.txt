@@ -1,0 +1,13 @@
+state={
+	id=250
+	name="STATE_250"
+	provinces={
+		1798 2474 2565 2918 4280 4289 4571 4708 5538 9842 9852 10000 10005 10010 10038 10052 10066 
+	}
+	history={
+		owner = THU
+		add_core_of = THU
+	}
+    manpower=88692
+    state_category = town
+}

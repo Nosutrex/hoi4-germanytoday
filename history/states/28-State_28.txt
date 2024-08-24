@@ -1,0 +1,13 @@
+state={
+	id=28
+	name="STATE_28"
+	provinces={
+		12915 
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
+	}
+    manpower=80
+    state_category = tiny_island
+}

@@ -1,0 +1,13 @@
+state={
+	id=378
+	name="STATE_378"
+	provinces={
+		11211 
+	}
+	history={
+		owner = RLP
+		add_core_of = RLP
+	}
+    manpower=174265
+    state_category = metropolis
+}

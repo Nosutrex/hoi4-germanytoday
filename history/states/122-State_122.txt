@@ -1,0 +1,13 @@
+state={
+	id=122
+	name="STATE_122"
+	provinces={
+		2277 2904 3885 4743 5752 8227 8271 8349 8376 8418 8455 8456 
+	}
+	history={
+		owner = BER
+		add_core_of = BER
+	}
+    manpower=1945688
+    state_category = megalopolis
+}

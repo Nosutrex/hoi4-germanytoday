@@ -1,0 +1,16 @@
+state={
+	id=325
+	name="STATE_325"
+	provinces={
+		1525 4041 5240 5946 10733 10758 
+	}
+	history={
+		owner = HES
+		add_core_of = HES
+		victory_points = {
+			1525 30
+		}
+	}
+    manpower=285522
+    state_category = city
+}

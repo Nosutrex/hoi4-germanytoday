@@ -1,0 +1,13 @@
+state={
+	id=400
+	name="STATE_400"
+	provinces={
+		844 1019 6691 6722 11351 11389 11392 11415 11428 11429 11459 11480 11502 11520 11590 
+	}
+	history={
+		owner = RLP
+		add_core_of = RLP
+	}
+    manpower=112631
+    state_category = town
+}

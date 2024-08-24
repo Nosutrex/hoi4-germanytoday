@@ -1,0 +1,16 @@
+state={
+	id=241
+	name="STATE_241"
+	provinces={
+		65 5534 5872 9777 9824 9854 9918 
+	}
+	history={
+		owner = SAC
+		add_core_of = SAC
+		victory_points = {
+			65 30
+		}
+	}
+    manpower=566222
+    state_category = large_city
+}

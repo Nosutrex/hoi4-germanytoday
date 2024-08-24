@@ -1,0 +1,13 @@
+state={
+	id=458
+	name="STATE_458"
+	provinces={
+		11897
+	}
+	history={
+		owner = BAY
+		add_core_of = BAY
+	}
+    manpower=54401
+    state_category = city
+}

@@ -1,0 +1,16 @@
+state={
+	id=253
+	name="STATE_253"
+	provinces={
+		6202 6609 6618 9904 9943 
+	}
+	history={
+		owner = THU
+		add_core_of = THU
+		victory_points = {
+			9943 30
+		}
+	}
+    manpower=215675
+    state_category = large_town
+}

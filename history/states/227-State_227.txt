@@ -1,0 +1,13 @@
+state={
+	id=227
+	name="STATE_227"
+	provinces={
+		971 2588 3147 4501 5034 9699 9726 9760 9779 9799 9801 9820 9821 9835 9851 9868 9877 
+	}
+	history={
+		owner = NRW
+		add_core_of = NRW
+	}
+    manpower=458722
+    state_category = large_town
+}

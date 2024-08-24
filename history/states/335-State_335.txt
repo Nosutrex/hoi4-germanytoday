@@ -1,0 +1,16 @@
+state={
+	id=335
+	name="STATE_335"
+	provinces={
+		245 10824 10851 
+	}
+	history={
+		owner = RLP
+		add_core_of = RLP
+		victory_points = {
+			10824 30
+		}
+	}
+    manpower=220552
+    state_category = metropolis
+}

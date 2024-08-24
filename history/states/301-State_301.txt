@@ -1,0 +1,13 @@
+state={
+	id=301
+	name="STATE_301"
+	provinces={
+		2416 3719 3750 4485 4717 4856 4941 5067 5272 5422 6271 10458 10499 10513 10529 10572 10573 10576 10577 
+	}
+	history={
+		owner = RLP
+		add_core_of = RLP
+	}
+    manpower=218210
+    state_category = town
+}

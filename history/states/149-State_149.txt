@@ -1,0 +1,16 @@
+state={
+	id=149
+	name="STATE_149"
+	provinces={
+		949 2132 6351 6518 8729 8776 
+	}
+	history={
+		owner = SAN
+		add_core_of = SAN
+		victory_points = {
+			8776 30
+		}
+	}
+    manpower=240114
+    state_category = city
+}

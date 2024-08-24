@@ -1,0 +1,13 @@
+state={
+	id=229
+	name="STATE_229"
+	provinces={
+		713 950 1259 1467 1789 2633 3936 4641 4872 5130 5920 6132 6599 9701 9715 9728 9729 9753 9754 9787 9794 9817 9841 
+	}
+	history={
+		owner = THU
+		add_core_of = THU
+	}
+    manpower=69418
+    state_category = rural
+}

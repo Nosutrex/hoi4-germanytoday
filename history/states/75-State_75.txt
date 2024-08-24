@@ -1,0 +1,16 @@
+state={
+	id=75
+	name="STATE_75"
+	provinces={
+		460 521 1210 1288 1739 2061 3457 3633 4643 5414 6069 6228 7244 7264 7285 7302 7358 7359 7375 7376 7393 7409 7424 7449 
+	}
+	history={
+		owner = HAM
+		add_core_of = HAM
+		victory_points = {
+			2061 30 
+		}
+	}
+    manpower=1910160
+    state_category = metropolis
+}

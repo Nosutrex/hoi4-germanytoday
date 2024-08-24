@@ -1,0 +1,16 @@
+state={
+	id=56
+	name="STATE_56"
+	provinces={
+		7250 7326 
+	}
+	history={
+		owner = BRE
+		add_core_of = BRE
+		victory_points = {
+			7250 15
+		}
+	}
+    manpower=114677
+    state_category = city
+}

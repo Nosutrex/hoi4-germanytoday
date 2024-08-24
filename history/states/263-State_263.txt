@@ -1,0 +1,13 @@
+state={
+	id=263
+	name="STATE_263"
+	provinces={
+		2015 3330 10009 10056 10057 
+	}
+	history={
+		owner = THU
+		add_core_of = THU
+	}
+    manpower=94847
+    state_category = large_town
+}

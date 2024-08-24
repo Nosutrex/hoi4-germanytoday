@@ -1,0 +1,13 @@
+state={
+	id=86
+	name="STATE_86"
+	provinces={
+		408 555 813 1024 1862 1915 1920 2415 2684 6251 6364 6404 6543 7360 7462 7501 7558 7612 7649 7683 7687 7725 
+	}
+	history={
+		owner = NIE
+		add_core_of = NIE
+	}
+    manpower=89761
+    state_category = town
+}

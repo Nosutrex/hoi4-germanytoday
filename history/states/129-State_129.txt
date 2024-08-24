@@ -1,0 +1,16 @@
+state={
+	id=129
+	name="STATE_129"
+	provinces={
+		5564 6211 8444 8519 
+	}
+	history={
+		owner = BRA
+		add_core_of = BRA
+		victory_points = {
+			8444 30
+		}
+	}
+    manpower=187119
+    state_category = city
+}

@@ -1,0 +1,13 @@
+state={
+	id=448
+	name="STATE_448"
+	provinces={
+		1131 2140 2261 2984 3033 3530 3637 4294 5222 6136 11974 12037 12045 12065 12083 
+	}
+	history={
+		owner = BAW
+		add_core_of = BAW
+	}
+    manpower=234649
+    state_category = town
+}

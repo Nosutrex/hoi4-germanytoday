@@ -1,0 +1,13 @@
+state={
+	id=401
+	name="STATE_401"
+	provinces={
+		11411 
+	}
+	history={
+		owner = RLP
+		add_core_of = RLP
+	}
+    manpower=34534
+    state_category = town
+}

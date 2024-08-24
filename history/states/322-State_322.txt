@@ -1,0 +1,13 @@
+state={
+	id=322
+	name="STATE_322"
+	provinces={
+		2767 4515 10727 10737 
+	}
+	history={
+		owner = HES
+		add_core_of = HES
+	}
+    manpower=775790
+    state_category = megalopolis
+}

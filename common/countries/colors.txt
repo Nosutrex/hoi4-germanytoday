@@ -1,0 +1,79 @@
+BER = {
+	color = rgb { 118 75 163 }
+	color_ui = rgb { 118 75 163 }
+}
+
+HAM = {
+	color = rgb { 185 0 0 }
+	color_ui = rgb { 185 0 0 }
+}
+
+SAR = {
+	color = rgb { 40 55 115 }
+	color_ui = rgb { 40 55 115 }
+}
+
+BAW = {
+	color = rgb { 119 153 60 }
+	color_ui = rgb { 119 153 60 }
+}
+
+BAY = {
+	color = rgb { 55 155 158 }
+	color_ui = rgb { 55 155 158 }
+}
+
+BRA = {
+	color = rgb { 145 101 63 }
+	color_ui = rgb { 145 101 63 }
+}
+
+BRE = {
+	color = rgb { 224 58 58 }
+	color_ui = rgb { 224 58 58 }
+}
+
+HES = {
+	color = rgb { 140 115 40 }
+	color_ui = rgb { 140 115 40 }
+}
+
+MVP = {
+	color = rgb { 72 115 133 }
+	color_ui = rgb { 72 115 133 }
+}
+
+NIE = {
+	color = rgb { 180 180 180 }
+	color_ui = rgb { 180 180 180 }
+}
+
+NRW = {
+	color = rgb { 25 120 76 }
+	color_ui = rgb { 25 120 76 }
+}
+
+RLP = {
+	color = rgb { 98 36 135 }
+	color_ui = rgb { 98 36 135 }
+}
+
+SAC = {
+	color = rgb { 28 112 29 }
+	color_ui = rgb { 28 112 29 }
+}
+
+SAN = {
+	color = rgb { 35 35 35 }
+	color_ui = rgb { 35 35 35 }
+}
+
+SCH = {
+	color = rgb { 50 80 125 }
+	color_ui = rgb { 50 80 125 }
+}
+
+THU = {
+	color = rgb { 150 75 85 }
+	color_ui = rgb { 150 75 85 }
+}

@@ -1,0 +1,13 @@
+state={
+	id=315
+	name="STATE_315"
+	provinces={
+		418 3307 3872 3961 4099 4561 5831 5895 10621 10651 10665 10669 10718 10732 10747 10765 10788 10791 10797 10819 
+	}
+	history={
+		owner = RLP
+		add_core_of = RLP
+	}
+    manpower=62666
+    state_category = rural
+}

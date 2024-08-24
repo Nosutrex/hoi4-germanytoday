@@ -1,0 +1,13 @@
+state={
+	id=195
+	name="STATE_195"
+	provinces={
+		3666 3866 4107 6467 6507 12187 12218 12246 12260 12275  
+	}
+	history={
+		owner = BAY
+		add_core_of = BAY
+	}
+    manpower=222932
+    state_category = large_town
+}

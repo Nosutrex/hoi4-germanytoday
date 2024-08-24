@@ -1,0 +1,16 @@
+state={
+	id=225
+	name="STATE_225"
+	provinces={
+		1762 2711 5885 9601 9747 
+	}
+	history={
+		owner = NRW
+		add_core_of = NRW
+		victory_points = {
+			1762 30
+		}
+	}
+    manpower=631217
+    state_category = megalopolis
+}

@@ -1,0 +1,13 @@
+state={
+	id=379
+	name="STATE_379"
+	provinces={
+		3557 4248 4997 5737 5930 6063 6293 6326 6683 11281 11303 11312 11313 11330 11343 11367 11373 11397 11416 11460 1563 3947 11189 11200 11215 11232
+	}
+	history={
+		owner = BAW
+		add_core_of = BAW
+	}
+    manpower=556645
+    state_category = large_town
+}

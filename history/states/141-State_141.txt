@@ -1,0 +1,13 @@
+state={
+	id=141
+	name="STATE_141"
+	provinces={
+		1046 2907 3837 4398 8496 
+	}
+	history={
+		owner = BRA
+		add_core_of = BRA
+	}
+    manpower=58818
+    state_category = town
+}

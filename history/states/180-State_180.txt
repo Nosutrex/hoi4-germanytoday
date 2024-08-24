@@ -1,0 +1,13 @@
+state={
+	id=180
+	name="STATE_180"
+	provinces={
+		1984 2152 2167 2509 3303 4565 4823 4906 5057 5522 5677 9101 9168 9182 9228 9250 9303 9312 9325 9361 9375 9360
+	}
+	history={
+		owner = NRW
+		add_core_of = NRW
+	}
+    manpower=620646
+    state_category = large_town
+}

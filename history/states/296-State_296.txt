@@ -1,0 +1,13 @@
+state={
+	id=296
+	name="STATE_296"
+	provinces={
+		144 1121 1145 2520 3279 3498 5229 5635 6074 6118 10410 10428 10455 10481 10558 10581 
+	}
+	history={
+		owner = HES
+		add_core_of = HES
+	}
+    manpower=175690
+    state_category = town
+}

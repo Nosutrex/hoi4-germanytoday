@@ -1,0 +1,13 @@
+state={
+	id=70
+	name="STATE_70"
+	provinces={
+		12926 
+	}
+	history={
+		owner = NIE
+		add_core_of = NIE
+	}
+    manpower=1933
+    state_category = small_island
+}

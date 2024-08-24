@@ -1,0 +1,13 @@
+state={
+	id=76
+	name="STATE_76"
+	provinces={
+		1175 2010 2400 2712 4907 5151 5797 6569 7215 7247 7279 7296 7382 7398 7407 
+	}
+	history={
+		owner = NIE
+		add_core_of = NIE
+	}
+    manpower=58396
+    state_category = rural
+}

@@ -1,0 +1,13 @@
+state={
+	id=50
+	name="STATE_50"
+	provinces={
+		6967 
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
+	}
+    manpower=80185
+    state_category = city
+}

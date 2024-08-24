@@ -1,0 +1,16 @@
+state={
+	id=125
+	name="STATE_125"
+	provinces={
+		127 437 605 2521 2781 5377 5708 6237 8294 8331 8332 8417 8422 8430 8470 8476 
+	}
+	history={
+		owner = BER
+		add_core_of = BER
+		victory_points = {
+			5377 50
+		}
+	}
+    manpower=1905121
+    state_category = megalopolis
+}

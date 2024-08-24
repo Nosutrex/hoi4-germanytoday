@@ -1,0 +1,16 @@
+state={
+	id=428
+	name="STATE_428"
+	provinces={
+		3483 5039 11813 
+	}
+	history={
+		owner = BAW
+		add_core_of = BAW
+		victory_points = {
+			5039 40
+		}
+	}
+    manpower=633484
+    state_category = megalopolis
+}

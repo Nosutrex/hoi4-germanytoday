@@ -1,0 +1,13 @@
+state={
+	id=182
+	name="STATE_182"
+	provinces={
+		2545 4450 5520 9187 9221 9251 9330 
+	}
+	history={
+		owner = NRW
+		add_core_of = NRW
+	}
+    manpower=180761
+    state_category = large_town
+}

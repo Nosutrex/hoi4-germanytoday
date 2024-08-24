@@ -1,0 +1,13 @@
+state={
+	id=133
+	name="STATE_133"
+	provinces={
+		2748 3460 3848 6320 
+	}
+	history={
+		owner = NIE
+		add_core_of = NIE
+	}
+    manpower=127256
+    state_category = large_town
+}

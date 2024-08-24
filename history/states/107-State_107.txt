@@ -1,0 +1,13 @@
+state={
+	id=107
+	name="STATE_107"
+	provinces={
+		582 931 1020 1248 1272 1473 2000 2670 2787 3049 3248 4629 5113 6072 7765 7782 7793 7824 7850 7890 7906 7927 7943 7947 7957 7969 7985 8000 8024 
+	}
+	history={
+		owner = NIE
+		add_core_of = NIE
+	}
+    manpower=134621
+    state_category = town
+}

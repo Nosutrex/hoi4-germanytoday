@@ -1,0 +1,13 @@
+state={
+	id=372
+	name="STATE_372"
+	provinces={
+		3281 3592 11177 11242 
+	}
+	history={
+		owner = BAW
+		add_core_of = BAW
+	}
+    manpower=316877
+    state_category = metropolis
+}

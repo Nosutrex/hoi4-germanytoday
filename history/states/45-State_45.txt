@@ -1,0 +1,13 @@
+state={
+	id=45
+	name="STATE_45"
+	provinces={
+		1263 5502 
+	}
+	history={
+		owner = MVP
+		add_core_of = MVP
+	}
+    manpower=214161
+    state_category = city
+}

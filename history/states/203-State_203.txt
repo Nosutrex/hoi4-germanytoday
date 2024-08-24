@@ -1,0 +1,13 @@
+state={
+	id=203
+	name="STATE_203"
+	provinces={
+		9406 9454 9470 
+	}
+	history={
+		owner = SAN
+		add_core_of = SAN
+	}
+    manpower=242172
+    state_category = large_city
+}

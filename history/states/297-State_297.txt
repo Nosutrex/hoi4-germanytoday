@@ -1,0 +1,13 @@
+state={
+	id=297
+	name="STATE_297"
+	provinces={
+		1132 1588 1848 2191 2962 3057 3153 4502 5186 5306 5475 6414 6485 10393 10421 10444 10478 10487 10495 10520 10521 10525 10544 10609 10638 10643 
+	}
+	history={
+		owner = BAY
+		add_core_of = BAY
+	}
+    manpower=80544
+    state_category = rural
+}

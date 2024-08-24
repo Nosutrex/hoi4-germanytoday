@@ -1,0 +1,13 @@
+state={
+	id=350
+	name="STATE_350"
+	provinces={
+		822 1451 2074 2105 3344 3958 5204 5401 5466 6675 10990 11003 11016 11028 11083 11098 11154 11181 
+	}
+	history={
+		owner = HES
+		add_core_of = HES
+	}
+    manpower=97182
+    state_category = town
+}

@@ -1,0 +1,16 @@
+state={
+	id=42
+	name="STATE_42"
+	provinces={
+		1284 6884 
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
+		victory_points = {
+			6884 30
+		}
+	}
+    manpower=248873
+    state_category = large_city
+}

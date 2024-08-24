@@ -1,0 +1,13 @@
+state={
+	id=258
+	name="STATE_258"
+	provinces={
+		502 741 1478 2001 4112 4312 4572 4833 5211 6284 6489 12254 12269 12271 12304 12314 
+	}
+	history={
+		owner = BAW
+		add_core_of = BAW
+	}
+    manpower=172392
+    state_category = town
+}

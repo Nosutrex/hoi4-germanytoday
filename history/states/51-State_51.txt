@@ -1,0 +1,13 @@
+state={
+	id=51
+	name="STATE_51"
+	provinces={
+		12923 
+	}
+	history={
+		owner = HAM
+		add_core_of = HAM
+	}
+    manpower=21
+    state_category = tiny_island
+}

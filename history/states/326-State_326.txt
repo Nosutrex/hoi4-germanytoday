@@ -1,0 +1,13 @@
+state={
+	id=326
+	name="STATE_326"
+	provinces={
+		1305 1522 1610 1974 3419 5535 5945 6169 6267 10749 10780 10821 10833 10845 10867 10886 
+	}
+	history={
+		owner = BAY
+		add_core_of = BAY
+	}
+    manpower=177056
+    state_category = town
+}

@@ -1,0 +1,13 @@
+state={
+	id=254
+	name="STATE_254"
+	provinces={
+		2418 2701 2779 3121 3283 3428 3732 4157 5012 5514 9922 9945 9963 9984 9999 10042 10078 10091 10120 
+	}
+	history={
+		owner = THU
+		add_core_of = THU
+	}
+    manpower=83643
+    state_category = town
+}

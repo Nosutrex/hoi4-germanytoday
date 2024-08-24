@@ -1,0 +1,13 @@
+state={
+	id=293
+	name="STATE_293"
+	provinces={
+		951 2381 3634 3807 4220 5302 5882 6343 6384 10358 10377 10399 10422 10427 10443 10446 10451 10454 10475 10486 10539 10565 
+	}
+	history={
+		owner = RLP
+		add_core_of = RLP
+	}
+    manpower=128161
+    state_category = town
+}

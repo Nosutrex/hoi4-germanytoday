@@ -1,0 +1,13 @@
+state={
+	id=54
+	name="STATE_54"
+	provinces={
+		1107 1549 3985 5293 6454 6999 7020 7054 7079 
+	}
+	history={
+		owner = MVP
+		add_core_of = MVP
+	}
+    manpower=76500
+    state_category = rural
+}

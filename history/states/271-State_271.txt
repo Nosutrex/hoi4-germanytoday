@@ -1,0 +1,13 @@
+state={
+	id=271
+	name="STATE_271"
+	provinces={
+		3664 3748 10053 10096 10117 10121 10144 
+	}
+	history={
+		owner = SAC
+		add_core_of = SAC
+	}
+    manpower=250681
+    state_category = city
+}

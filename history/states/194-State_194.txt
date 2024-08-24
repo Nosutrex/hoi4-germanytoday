@@ -1,0 +1,13 @@
+state={
+	id=194
+	name="STATE_194"
+	provinces={
+		1787 9413 
+	}
+	history={
+		owner = NRW
+		add_core_of = NRW
+	}
+    manpower=265885
+    state_category = metropolis
+}

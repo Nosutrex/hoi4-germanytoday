@@ -1,0 +1,13 @@
+state={
+	id=236
+	name="STATE_236"
+	provinces={
+		375 447 639 1202 2210 3000 3785 4147 4151 4337 4505 5371 5443 5768 5942 9837 9845 9917 9933 9961 9975 9995 10004 10023 10062 10063 10109 
+	}
+	history={
+		owner = NRW
+		add_core_of = NRW
+	}
+    manpower=275735
+    state_category = town
+}

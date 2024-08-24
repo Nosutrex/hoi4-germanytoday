@@ -1,0 +1,14 @@
+state={
+	id=393
+	name="STATE_393"
+	provinces={
+		1766 1928 1929 3559 11337 11385 11405 11445 11477 11489 11501 
+	}
+	history={
+		owner = SAR
+		add_core_of = SAR
+	}
+	buildings_max_level_factor=1.000
+        manpower=142344
+        state_category = town
+}

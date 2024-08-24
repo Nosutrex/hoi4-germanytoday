@@ -1,0 +1,13 @@
+state={
+	id=19
+	name="STATE_19"
+	provinces={
+		2577 
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
+	}
+    manpower=92667
+    state_category = city
+}

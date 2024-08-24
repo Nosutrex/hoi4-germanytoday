@@ -1,0 +1,13 @@
+state={
+	id=63
+	name="STATE_63"
+	provinces={
+		710 972 1054 1523 2448 2785 3438 3610 3756 3764 6172 7119 7126 7143 7158 7159 7171 7202 7210 7219 7257 7277 
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
+	}
+    manpower=324018
+    state_category = town
+}
