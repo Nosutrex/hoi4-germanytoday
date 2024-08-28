@@ -7,9 +7,6 @@ state={
 	history={
 		owner = SAC
 		add_core_of = SAC
-		victory_points = {
-			9568 20
-		}
 	}
     manpower=619879
     state_category = metropolis

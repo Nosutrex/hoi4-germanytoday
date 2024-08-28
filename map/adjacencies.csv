@@ -1,2 +1,6 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
--1;-1;;-1;-1;-1;-1;-1;-1
+14557;15699;sea;4217;2946;1603;2964;1613;KIEL_CANAL;Kiel canal
+6080;6217;sea;14520;-1;-1;-1;-1;;Fehmarn bridge
+6886;6879;sea;13382;-1;-1;-1;-1;;Ruegen bridge
+7058;7079;sea;14750;-1;-1;-1;-1;;Usedom bridge
+-1;-1;;-1;-1;-1;-1;-1;-1 

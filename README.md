@@ -4,6 +4,7 @@ A Hearts of Iron IV mod template that changes the map to the modern states of Ge
 ## Features
 - Detailed map with German states, counties and independent cities
 - Real population and state development data
+- Strategic regions for air and navy
 
 ## Preview
 ![screenshot](https://i.imgur.com/mtOO7dc.jpeg)
@@ -12,16 +13,16 @@ A Hearts of Iron IV mod template that changes the map to the modern states of Ge
 - Terrain is looking bad and doesn't fit the real locations very well
 - Rivers don't connect correctly
 - Island "Neuwerk" is misplaced
-- City lights are bugged
-- No strategic regions and supply yet
+- City lights are bugged / not set
+- No supply yet
 - No resources
 - Country colors appear darker than defined (saturation, see wiki)
 
 ## Usage
-Feel free to use this mod (template) to create your own mods, but make sure to mention this original project.
+Feel free to use this mod (template) to create your own mods, but make sure to mention this original repository.
 
-## Contributing
-If you want to contribute to this repository, just create a pull request.
+## Contribute
+We welcome contributions from everyone. Simply fork the repository, make your changes and submit a pull request.
 
 ## Special Thanks / Sources
 - [Astro's modding tools](https://astrosmodding.weebly.com/)
