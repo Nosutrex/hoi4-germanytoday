@@ -1,0 +1,14 @@
+OST = {
+	color = rgb { 35 35 35 }
+	color_ui = rgb { 35 35 35 }
+}
+
+WST = {
+	color = rgb { 35 35 35 }
+	color_ui = rgb { 35 35 35 }
+}
+
+DEU = {
+	color = rgb { 35 35 35 }
+	color_ui = rgb { 35 35 35 }
+}

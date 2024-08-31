@@ -4,8 +4,8 @@ BER = {
 }
 
 HAM = {
-	color = rgb { 185 0 0 }
-	color_ui = rgb { 185 0 0 }
+	color = rgb { 160 50 50 }
+	color_ui = rgb { 160 50 50 }
 }
 
 SAR = {
@@ -23,7 +23,7 @@ BAY = {
 	color_ui = rgb { 55 155 158 }
 }
 
-BRA = {
+BRB = {
 	color = rgb { 145 101 63 }
 	color_ui = rgb { 145 101 63 }
 }

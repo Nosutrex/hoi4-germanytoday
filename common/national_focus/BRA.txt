@@ -16,14 +16,14 @@
 }
 
 focus_tree = {
-	id = BRA_focus
+	id = BRB_focus
 	
 	country = {
 		factor = 0
 		
 		modifier = {
 			add = 10
-			tag = BRA
+			tag = BRB
 		}
 	}
 	

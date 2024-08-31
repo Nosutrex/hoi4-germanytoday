@@ -5,8 +5,8 @@ state={
 		3086 4330 8454 8483 8484 8527 8547 
 	}
 	history={
-		owner = BRA
-		add_core_of = BRA
+		owner = BRB
+		add_core_of = BRB
 	}
     manpower=73921
     state_category = town

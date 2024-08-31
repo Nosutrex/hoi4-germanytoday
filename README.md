@@ -16,7 +16,6 @@ A Hearts of Iron IV mod template that changes the map to the modern states of Ge
 - City lights are bugged / not set
 - No supply yet
 - No resources
-- Country colors appear darker than defined (saturation, see wiki)
 
 ## Usage
 Feel free to use this mod (template) to create your own mods, but make sure to mention this original repository.
