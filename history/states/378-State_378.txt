@@ -2,12 +2,9 @@ state={
 	id=378
 	name="STATE_378"
 	provinces={
-		11211 
+		2268 3606 6065 
 	}
-	history={
-		owner = RLP
-		add_core_of = RLP
-	}
-    manpower=174265
-    state_category = metropolis
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

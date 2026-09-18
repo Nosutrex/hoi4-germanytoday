@@ -2,12 +2,9 @@ state={
 	id=134
 	name="STATE_134"
 	provinces={
-		3086 4330 8454 8483 8484 8527 8547 
+		93 115 169 221 223 621 667 856 1075 1092 1197 1200 1223 1346 1526 1530 1581 1630 1830 2735 2753 2869 3304 3652 4281 5236 5559 6679 
 	}
-	history={
-		owner = BRB
-		add_core_of = BRB
-	}
-    manpower=73921
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

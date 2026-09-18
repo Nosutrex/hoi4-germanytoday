@@ -2,12 +2,9 @@ state={
 	id=298
 	name="STATE_298"
 	provinces={
-		867 2761 3247 3282 3407 5254 10474 10496 10502 
+		236 2367 3685 3724 3804 4294 4452 5219 5408 5734 5773 5912 6042 6183 6483 8947 8951 8954 8972 8990 8991 9021 9022 9035 9049 9063 9077 9078 9102 9108 9120 9121 9137 9147 9161 9166 9175 9183 9197 9222 
 	}
-	history={
-		owner = THU
-		add_core_of = THU
-	}
-    manpower=56434
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

@@ -2,12 +2,9 @@ state={
 	id=444
 	name="STATE_444"
 	provinces={
-		2573 3408 3624 4068 4324 4553 5402 5669 5739 6432 11939 11966 11994 11999 12009 12047 12048 12052 12085 12145 
+		2338 3082 4392 4639 4932 5766 6500 10182 10216 10252 10277 10294 
 	}
-	history={
-		owner = BAY
-		add_core_of = BAY
-	}
-    manpower=186276
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

@@ -2,12 +2,9 @@ state={
 	id=426
 	name="STATE_426"
 	provinces={
-		4282 
+		1555 1874 4616 6219 10095 10113 10119 10127 10155 
 	}
-	history={
-		owner = BAW
-		add_core_of = BAW
-	}
-    manpower=128992
-    state_category = city
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

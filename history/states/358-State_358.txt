@@ -2,12 +2,9 @@ state={
 	id=358
 	name="STATE_358"
 	provinces={
-		326 3473 3531 4385 4562 5030 5884 6081 11058 11097 11126 11138 11153 11171 11178 11229
+		227 274 1296 3350 3735 3916 4680 5075 5371 5478 5931 5972 6016 6053 6451 6562 9434 9444 9445 9464 9467 9474 9484 9500 9506 9511 9514 9521 9532 9575 9584 9600 
 	}
-	history={
-		owner = HES
-		add_core_of = HES
-	}
-    manpower=276295
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

@@ -2,12 +2,9 @@ state={
 	id=146
 	name="STATE_146"
 	provinces={
-		2108 2486 3297 3355 4018 4179 4226 4444 4658 4940 5602 8734 8750 8821 8827 8852 8859 8877 8902 
+		11877 
 	}
-	history={
-		owner = NIE
-		add_core_of = NIE
-	}
-    manpower=150377
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

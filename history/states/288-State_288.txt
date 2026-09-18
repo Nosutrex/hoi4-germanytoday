@@ -2,12 +2,9 @@ state={
 	id=288
 	name="STATE_288"
 	provinces={
-		162 518 4091 4765 5352 5527 10282 10317 10331 10356 10359 10396 10423 10435 10463 
+		732 1417 2655 3026 4301 4423 4544 4561 4948 5043 5119 5235 5788 8755 8757 8781 8792 8797 8807 8822 8827 8842 8867 8875 8883 8898 8909 8913 8943 8949 8963 8968 8975 9001 9018 
 	}
-	history={
-		owner = RLP
-		add_core_of = RLP
-	}
-    manpower=187440
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

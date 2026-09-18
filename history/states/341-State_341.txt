@@ -2,12 +2,9 @@ state={
 	id=341
 	name="STATE_341"
 	provinces={
-		2331 3710 
+		4050 4259 5412 6529 9290 9326 9342 9385 9420 
 	}
-	history={
-		owner = HES
-		add_core_of = HES
-	}
-    manpower=164792
-    state_category = city
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

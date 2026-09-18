@@ -2,15 +2,9 @@ state={
 	id=81
 	name="STATE_81"
 	provinces={
-		5876 7260 7312 
+		11853 
 	}
-	history={
-		owner = MVP
-		add_core_of = MVP
-		victory_points = {
-			5876 30 
-		}
-	}
-    manpower=98596
-    state_category = large_town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

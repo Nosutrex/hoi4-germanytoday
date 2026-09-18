@@ -2,12 +2,9 @@ state={
 	id=142
 	name="STATE_142"
 	provinces={
-		1529 1722 2675 4456 8655 
+		11876 
 	}
-	history={
-		owner = NIE
-		add_core_of = NIE
-	}
-    manpower=252066
-    state_category = city
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

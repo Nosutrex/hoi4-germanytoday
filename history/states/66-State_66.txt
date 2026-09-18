@@ -2,12 +2,9 @@ state={
 	id=66
 	name="STATE_66"
 	provinces={
-		12924 
+		250 264 384 416 503 693 748 762 887 1211 1639 1772 1880 2284 2299 2613 2691 2985 5325 6341 6800 6936 
 	}
-	history={
-		owner = NIE
-		add_core_of = NIE
-	}
-    manpower=1264
-    state_category = small_island
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

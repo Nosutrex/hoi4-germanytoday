@@ -2,12 +2,9 @@ state={
 	id=315
 	name="STATE_315"
 	provinces={
-		418 3307 3872 3961 4099 4561 5831 5895 10621 10651 10665 10669 10718 10732 10747 10765 10788 10791 10797 10819 
+		162 1974 2122 2245 3680 3976 6604 9054 9157 9163 9180 9190 9199 
 	}
-	history={
-		owner = RLP
-		add_core_of = RLP
-	}
-    manpower=62666
-    state_category = rural
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

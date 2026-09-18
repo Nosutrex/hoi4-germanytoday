@@ -1,14 +1,10 @@
-
 state={
 	id=169
 	name="STATE_169"
 	provinces={
-		3188 4955 5003 9013 9037 9055 9103 
+		815 1435 1564 1887 2144 3738 4293 4397 4518 4697 4809 5223 5730 6327 6492 7356 7391 7392 7407 7408 7424 7428 7445 7454 7460 7476 7496 7509 7516 7527 7550 
 	}
-	history={
-		owner = SAN
-		add_core_of = SAN
-	}
-    manpower=79686
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

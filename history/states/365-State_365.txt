@@ -2,12 +2,9 @@ state={
 	id=365
 	name="STATE_365"
 	provinces={
-		804 2136 3653 3759 4339 4676 5173 5236 5356 5869 6600 12154 12183 12185 12214 12233 12244 12267 12276 
+		1450 2046 2996 3989 4161 4473 4622 4960 5670 5843 5961 6296 6503 9538 9544 9567 9585 9591 9595 9602 9627 9628 9631 9654 9676 9688 9708 9717 9718 9723 9746 9753 9804 
 	}
-	history={
-		owner = BAW
-		add_core_of = BAW
-	}
-    manpower=142963
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

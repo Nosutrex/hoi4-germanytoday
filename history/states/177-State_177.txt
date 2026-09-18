@@ -2,12 +2,9 @@ state={
 	id=177
 	name="STATE_177"
 	provinces={
-		215 625 1408 1519 1914 2266 2744 3320 3694 4742 4996 5780 6101 6130 6368 9083 9102 9123 9126 9136 9163 9183 9206 9212 9216 9225 9243 9255 9273 9286 9304 9321 9354 9399 9473 
+		559 719 3698 4037 5716 5798 6279 7495 7500 7515 7526 7535 7546 7547 
 	}
-	history={
-		owner = NRW
-		add_core_of = NRW
-	}
-    manpower=315400
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

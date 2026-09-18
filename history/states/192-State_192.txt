@@ -2,12 +2,9 @@ state={
 	id=192
 	name="STATE_192"
 	provinces={
-		2195 5161 6574 
+		25 92 134 283 387 654 922 1207 1277 1573 1699 1704 1778 2217 2224 2329 2344 2346 2653 3057 3619 5404 8408 8493 
 	}
-	history={
-		owner = NRW
-		add_core_of = NRW
-	}
-    manpower=118705
-    state_category = city
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

@@ -2,12 +2,9 @@ state={
 	id=216
 	name="STATE_216"
 	provinces={
-		1015 1571 2321 2873 3243 4020 4885 4931 5010 5143 5209 5716 6226 6253 9555 9556 9557 9561 9571 9577 9588 9594 9598 9606 9607 9611 9618 9639 9649 9663 9671 9706 
+		1801 2397 3462 7918 7928 7954 7969 8023 8046 
 	}
-	history={
-		owner = THU
-		add_core_of = THU
-	}
-    manpower=73216
-    state_category = rural
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

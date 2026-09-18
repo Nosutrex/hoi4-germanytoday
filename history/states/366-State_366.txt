@@ -2,13 +2,9 @@ state={
 	id=366
 	name="STATE_366"
 	provinces={
-		2657 2686 3462 3856 4124 4762 5766 6017 6720 11139 11194 11224 
-	}
-	history={
-		owner = SAR
-		add_core_of = SAR
+		3086 3872 3888 4105 4372 4570 6169 6217 6564 6745 9516 9550 9563 9580 9581 9609 9616 9638 9655 9674 9699 9703 9731 
 	}
 	buildings_max_level_factor=1.000
-        manpower=86988
-        state_category = town
+        manpower=1
+        state_category = rural
 }

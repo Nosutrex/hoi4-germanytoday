@@ -2,12 +2,9 @@ state={
 	id=373
 	name="STATE_373"
 	provinces={
-		1214 3071 3224 3313 3329 4187 4216 5570 11160 11165 11203 11210 11220 11287 11302 11308 
+		3845 9588 
 	}
-	history={
-		owner = RLP
-		add_core_of = RLP
-	}
-    manpower=108216
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

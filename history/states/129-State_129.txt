@@ -2,15 +2,9 @@ state={
 	id=129
 	name="STATE_129"
 	provinces={
-		5564 6211 8444 8519 
+		11871 
 	}
-	history={
-		owner = BRB
-		add_core_of = BRB
-		victory_points = {
-			8444 30
-		}
-	}
-    manpower=187119
-    state_category = city
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

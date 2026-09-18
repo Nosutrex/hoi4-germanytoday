@@ -7,12 +7,11 @@ tags={
 	"Events"
 	"National Focuses"
 }
-name="GermanyToday"
-supported_version="1.14.*"
+name="hoi4-germanytoday"
+supported_version="1.19.*.*"
 picture="thumbnail.jpg"
 
-replace_path="common/national_focus"
-replace_path="history/countries"
 replace_path="history/states"
-replace_path="map/strategicregions"
+replace_path="history/countries"
 replace_path="map/supplyareas"
+replace_path="map/strategicregions"

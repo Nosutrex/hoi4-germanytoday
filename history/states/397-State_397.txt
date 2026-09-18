@@ -2,16 +2,9 @@ state={
 	id=397
 	name="STATE_397"
 	provinces={
-		4369 4582 4879 5696 6294 11341 11362 11404 11408 11433 11449 11493 
-	}
-	history={
-		owner = SAR
-		victory_points = {
-			11408 30 
-		}
-		add_core_of = SAR
+		1047 1758 2429 3343 3766 4283 4357 4690 5726 5902 5999 6031 6560 9880 9889 9900 9914 9928 9929 9977 9990 10000 10001 10016 
 	}
 	buildings_max_level_factor=1.000
-        manpower=332427
-        state_category = large_town
+        manpower=1
+        state_category = rural
 }

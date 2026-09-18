@@ -2,12 +2,9 @@ state={
 	id=280
 	name="STATE_280"
 	provinces={
-		4725 5158 10191 629 708 2428 2992 4256 4696 6057 10092 10142 10157 10232 10235 10292 3507 5588 5806 10015 10044 10101 10106 
+		3795 4249 4399 4850 4874 4935 5318 5557 5592 5759 6102 6180 6537 8713 8724 8750 8753 8787 8790 8796 8826 8836 8880 8917 8998 9000 
 	}
-	history={
-		owner = SAC
-		add_core_of = SAC
-	}
-    manpower=310111
-    state_category = large_town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

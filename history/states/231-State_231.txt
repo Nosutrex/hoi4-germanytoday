@@ -2,12 +2,9 @@ state={
 	id=231
 	name="STATE_231"
 	provinces={
-		1830 2059 2929 4408 4936 5038 5109 12458 12510 12539 12548 12560 12564 12565 12574 12586 12588 12611 
+		798 1341 2890 3355 4052 4781 5386 5457 5737 6171 6216 6240 6285 6431 8077 8118 8148 8154 8156 8162 8182 8196 8209 8223 8245 8269 8286 8287 8304 8323 
 	}
-	history={
-		owner = BAW
-		add_core_of = BAW
-	}
-    manpower=224200
-    state_category = town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

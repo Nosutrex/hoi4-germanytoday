@@ -2,12 +2,9 @@ state={
 	id=51
 	name="STATE_51"
 	provinces={
-		12923 
+		11837 
 	}
-	history={
-		owner = HAM
-		add_core_of = HAM
-	}
-    manpower=21
-    state_category = tiny_island
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }

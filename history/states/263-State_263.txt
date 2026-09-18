@@ -2,12 +2,9 @@ state={
 	id=263
 	name="STATE_263"
 	provinces={
-		2015 3330 10009 10056 10057 
+		2929 4689 4865 8469 8542 8543 
 	}
-	history={
-		owner = THU
-		add_core_of = THU
-	}
-    manpower=94847
-    state_category = large_town
+	buildings_max_level_factor=1.000
+        manpower=1
+        state_category = rural
 }
