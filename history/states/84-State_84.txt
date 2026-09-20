@@ -2,7 +2,14 @@ state={
 	id=84
 	name="STATE_84"
 	provinces={
-		11855 
+		597 1360 2115 2609 3446 4067 4699 7201 7233 7276 7323 7346 
+	}
+	history={
+		owner = HAM
+		add_core_of = HAM
+		victory_points = {
+			7233 30
+		}
 	}
 	buildings_max_level_factor=1.000
         manpower=1

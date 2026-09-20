@@ -2,7 +2,11 @@ state={
 	id=4
 	name="STATE_4"
 	provinces={
-		27 179 591 802 1232 1476 2412 4364 4885 
+		354
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
 	}
 	buildings_max_level_factor=1.000
         manpower=1

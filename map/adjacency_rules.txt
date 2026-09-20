@@ -1,4 +1,4 @@
-﻿# Adjacency rules determine if an army, navy or trade can pass through the adjacency (e.g. a canal or strait).
+# Adjacency rules determine if an army, navy or trade can pass through the adjacency (e.g. a canal or strait).
 #
 # If two countries at war control provinces in the adjacency it is considered contested.
 # The optional triggers is_enemy, is_friend and is_neutral are evaluated in order and if one evaluates to true the corresponding rule is used.
@@ -10,43 +10,3 @@
 # Otherwise the neutral rule is used, unless is_neutral evaluates to false, then the enemy rule is used.
 #
 # The 'name' property is how you refer to the rule in adjacencies.csv
-
-##Kiel Canal
-#adjacency_rule =
-#{
-#	name = "KIEL_CANAL"
-#
-#	contested =
-#	{
-#		army = no
-#		navy = no
-#		submarine = no
-#		trade = no
-#	}
-#	enemy =
-#	{
-#		army = no
-#		navy = no
-#		submarine = no
-#		trade = no
-#	}
-#	friend =
-#	{
-#		army = yes
-#		navy = yes
-#		submarine = yes
-#		trade = yes
-#	}
-#	neutral =
-#	{
-#		army = no
-#		navy = no
-#		submarine = no
-#		trade = yes
-#	}
-#	
-#	required_provinces = { 6855 6854 6852 6853 }
-#		
-#	icon = 6389
-#	offset = { -9 0 2 }
-#}

@@ -2,7 +2,11 @@ state={
 	id=50
 	name="STATE_50"
 	provinces={
-		11836 
+		932 1185 1709 4180 4665 4789 5731 5910 6235 6237 6275 6374 6461 6867 6878 6883 6896 6897 6905 6912 6914 6921 6922 6969 
+	}
+	history={
+		owner = SCH
+		add_core_of = SCH
 	}
 	buildings_max_level_factor=1.000
         manpower=1

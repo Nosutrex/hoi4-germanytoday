@@ -2,7 +2,11 @@ state={
 	id=101
 	name="STATE_101"
 	provinces={
-		11862 
+		1129 4883 6173 7289 7312 7319 7336 
+	}
+	history={
+		owner = HAM
+		add_core_of = HAM
 	}
 	buildings_max_level_factor=1.000
         manpower=1

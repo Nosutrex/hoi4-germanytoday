@@ -1,4 +1,14 @@
-TST = {
-	color = rgb { 57 113 228 }
-	color_ui = rgb { 74 147 255 }
+HAM = {
+	color = rgb { 160 50 50 }
+	color_ui = rgb { 160 50 50 }
+}
+
+MVP = {
+	color = rgb { 72 115 133 }
+	color_ui = rgb { 72 115 133 }
+}
+
+SCH = {
+	color = rgb { 50 80 125 }
+	color_ui = rgb { 50 80 125 }
 }

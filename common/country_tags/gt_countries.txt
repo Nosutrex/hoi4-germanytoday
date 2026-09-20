@@ -1,0 +1,3 @@
+SCH = "countries/SCH.txt"
+HAM = "countries/HAM.txt"
+MVP = "countries/MVP.txt"

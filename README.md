@@ -1,5 +1,5 @@
-# HOI4 - GermanyToday (placeholder name)
-A Hearts of Iron IV mod template that changes the map to the modern states of Germany.
+# HOI4 - GermanyToday (placeholder name, placeholder description)
+A Hearts of Iron IV mod that changes the map to the modern states of Germany.
 
 > [!IMPORTANT]
 > This mod is **work in progress** and still contains severe bugs and lacks various features.
@@ -14,7 +14,6 @@ A Hearts of Iron IV mod template that changes the map to the modern states of Ge
 
 ## ToDos (Basic)
 - States
-    - Form correct states (add provinces and fix if required)
     - Set names
     - Set population + state category
 - Nations
@@ -22,15 +21,19 @@ A Hearts of Iron IV mod template that changes the map to the modern states of Ge
     - Set names
     - Set color
     - Set flags
+- Regions
+    - Set naval regions
+    - Set air regions
+    - (supply regions)?
 - Add terrain to map
+- Add city lights
+- Add supply
+    - Add some supply hubs in major cities
+    - Add basic railway infrastructure
+- Add resources
 
 ## Known Issues
-- Terrain is looking bad and doesn't fit the real locations very well
-- Rivers don't connect correctly
-- Island "Neuwerk" is misplaced
-- City lights are bugged / not set
-- No supply yet
-- No resources
+- X
 
 ## Usage
 Feel free to use this repository to create your own mods, but make sure to mention this original repository.
